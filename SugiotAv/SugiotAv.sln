@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SugiotAv", "SugiotAv\SugiotAv.vcxproj", "{3FFC36A6-41D3-4E74-B3D2-27449B6CFBEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FFC36A6-41D3-4E74-B3D2-27449B6CFBEB}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{3FFC36A6-41D3-4E74-B3D2-27449B6CFBEB}.Debug|ARM64.Build.0 = Debug|ARM64
+		{3FFC36A6-41D3-4E74-B3D2-27449B6CFBEB}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{3FFC36A6-41D3-4E74-B3D2-27449B6CFBEB}.Debug|x64.ActiveCfg = Debug|x64
+		{3FFC36A6-41D3-4E74-B3D2-27449B6CFBEB}.Debug|x64.Build.0 = Debug|x64
+		{3FFC36A6-41D3-4E74-B3D2-27449B6CFBEB}.Debug|x64.Deploy.0 = Debug|x64
+		{3FFC36A6-41D3-4E74-B3D2-27449B6CFBEB}.Release|ARM64.ActiveCfg = Release|ARM64
+		{3FFC36A6-41D3-4E74-B3D2-27449B6CFBEB}.Release|ARM64.Build.0 = Release|ARM64
+		{3FFC36A6-41D3-4E74-B3D2-27449B6CFBEB}.Release|ARM64.Deploy.0 = Release|ARM64
+		{3FFC36A6-41D3-4E74-B3D2-27449B6CFBEB}.Release|x64.ActiveCfg = Release|x64
+		{3FFC36A6-41D3-4E74-B3D2-27449B6CFBEB}.Release|x64.Build.0 = Release|x64
+		{3FFC36A6-41D3-4E74-B3D2-27449B6CFBEB}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A3359FA-8E23-4AD6-8B17-872DC49497CC}
+	EndGlobalSection
+EndGlobal
