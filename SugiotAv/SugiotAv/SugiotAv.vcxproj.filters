@@ -19,8 +19,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Inf Include="SugiotAv.inf">
-      <Filter>Driver Files</Filter>
-    </Inf>
+    <ClCompile Include="SugiotAv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

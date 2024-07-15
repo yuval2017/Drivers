@@ -1,0 +1,8 @@
+﻿  Building 'SugiotAv' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  SugiotAv.cpp
+  SugiotAv.vcxproj -> C:\Users\2014y\Desktop\Drivers\SugiotAv\x64\Debug\SugiotAv.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\2014y\Desktop\Drivers\SugiotAv\x64\Debug\SugiotAv.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  

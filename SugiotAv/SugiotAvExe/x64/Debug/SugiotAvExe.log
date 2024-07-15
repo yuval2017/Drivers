@@ -1,0 +1,4 @@
+﻿  SugiotAvExe.cpp
+C:\Users\2014y\Desktop\Drivers\SugiotAv\SugiotAvExe\SugiotAvExe.cpp(218,86): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\2014y\Desktop\Drivers\SugiotAv\SugiotAvExe\SugiotAvExe.cpp(164,16): warning C4101: 'remainingTime': unreferenced local variable
+  SugiotAvExe.vcxproj -> C:\Users\2014y\Desktop\Drivers\SugiotAv\x64\Debug\SugiotAvExe.exe
